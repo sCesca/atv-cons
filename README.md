@@ -79,5 +79,6 @@ O coordenador pode simular a recuperação de um nó específico usando o métod
 Quando um nó falha, ele deixa de participar do consenso até ser recuperado.
 Se o líder falhar, os seguidores iniciarão uma nova eleição para eleger um novo líder.
 Quando um nó se recupera, ele retoma suas operações como seguidor e pode participar de futuras eleições.
-![image](https://github.com/user-attachments/assets/9044c177-f5b1-417f-87be-de04868cad83)
+![Falha](./falha.png)
+
 
